@@ -1,9 +1,12 @@
 const mongoose = require('mongoose')
 
 const projectSchema = new mongoose.Schema({
-    _id: {
-        type: Number
-    }, title: {
+    title: {
+        type: String,
+        required: true
+    }, description: {
+        type: String
+    }, disclaimer: {
         type: String
     }, thumbnail: {
         type: String

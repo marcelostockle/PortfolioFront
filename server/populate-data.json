@@ -1,0 +1,16 @@
+[
+    {
+        "title": "tatoeba-graph",
+        "description": "Description in progress",
+        "disclaimer": "Disclaimer in progress",
+        "thumbnail": "./public/tatoeba-graph.png",
+        "tags": ["react", "node", "express", "mongoDB"]
+    },
+    {
+        "title": "test-entry",
+        "description": "Description in progress",
+        "disclaimer": "Disclaimer in progress",
+        "thumbnail": "./public/test.png",
+        "tags": ["node", "express"]
+    }
+]
