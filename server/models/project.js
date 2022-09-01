@@ -10,6 +10,10 @@ const projectSchema = new mongoose.Schema({
         type: String
     }, thumbnail: {
         type: String
+    }, link: {
+        type: String
+    }, repository: {
+        type: String
     }, tags: {
         type: [String]
     }

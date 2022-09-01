@@ -4,6 +4,8 @@
         "description": "Description in progress",
         "disclaimer": "Disclaimer in progress",
         "thumbnail": "./public/tatoeba-graph.png",
+        "link": "#",
+        "repository": "https://github.com/marcelostockle/tatoeba-graph",
         "tags": ["react", "node", "express", "mongoDB"]
     },
     {
@@ -11,6 +13,17 @@
         "description": "Description in progress",
         "disclaimer": "Disclaimer in progress",
         "thumbnail": "./public/test.png",
+        "link": "#",
+        "repository": "https://github.com/marcelostockle/",
         "tags": ["node", "express"]
+    },
+    {
+        "title": "test-dentry",
+        "description": "No description",
+        "disclaimer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "thumbnail": "./public/test2.png",
+        "link": "#",
+        "repository": "https://github.com/marcelostockle/",
+        "tags": ["react", "express"]
     }
 ]
