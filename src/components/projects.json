@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Custom Tatoeba Utils",
+    "description": "Miscellaneous utilities built with data from the public language corpus at tatoeba.org. At the present, the only deployed utility is a word scramble quiz game where the user can attempt to translate a sentence using word prompts.",
+    "link": "https://animated-dolphin-68efc2.netlify.app/",
+    "repository": "https://github.com/marcelostockle/CustomTatoebaUtils",
+    "thumbnail": "custom-tatoeba-utils.png"
+  },
+  {
+    "title": "Hacker News Feed",
+    "description": "A news aggregator taking articles from a public API at hn.algolia.com.",
+    "link": "https://merry-babka-7c999d.netlify.app/",
+    "repository": "",
+    "thumbnail": "hacker-news-feed.png"
+  },
+  {
+    "title": "My Personal Portfolio",
+    "description": "The very same your browsing right now.",
+    "link": "",
+    "repository": "https://github.com/marcelostockle/PortfolioFront",
+    "thumbnail": ""
+  }
+]
