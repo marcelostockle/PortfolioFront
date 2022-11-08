@@ -1,16 +1,22 @@
 import React from 'react'
 import ProjectBox from './ProjectBox'
+import styled from 'styled-components'
 
 const data = require('../projects.json')
+const ProjectGrid = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+`
 const ProjectPage = () => {
   return (
-    <div className="App">
+    <ProjectGrid>
       {
         data.map((project) => {
           return <ProjectBox {...project}/>
         })
       }
-    </div>
+    </ProjectGrid>
   )
 }
 
