@@ -25,7 +25,8 @@ cursor: pointer;
 const Navbar = () => {
 
   return (<Nav>
-    <StyledLink to="/">Projects</StyledLink>
+    <StyledLink to="/">Home</StyledLink>
+    <StyledLink to="/projects">Projects</StyledLink>
     <StyledLink to="/about">About</StyledLink>
   </Nav>)
 }
