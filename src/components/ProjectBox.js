@@ -6,10 +6,10 @@ const TopBox = styled.a`
 min-width: 300px;
 width: 35vw;
 height: fit-content;
-background-color: navajowhite;
+background-color: beige;
 border-width: 2px;
 border-style: outset;
-border-color: beige;
+border-color: #404040;
 display: grid;
 justify-items: center;
 padding: 0.5rem 0.2rem;
@@ -20,7 +20,6 @@ color: black;
 const Title = styled.h2`
 width: fit-content;
 height: fit-content;
-background-color: aliceblue;
 padding: 0.2rem 0.4rem;
 margin-top: 0.5rem;
 font-weight: 300;
