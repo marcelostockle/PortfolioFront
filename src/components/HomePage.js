@@ -3,8 +3,9 @@ import styled from 'styled-components'
 import { AiOutlineDownload } from 'react-icons/ai'
 
 const TopContainer = styled.div`
-  width: 500px;
-  margin: 10rem 80px;
+  width: 600px;
+  max-width: 70vw;
+  margin: 10rem 14vw;
   display: grid;
   justify-content: flex-start;
   color: white;
