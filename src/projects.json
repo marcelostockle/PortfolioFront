@@ -1,7 +1,7 @@
 [
   {
     "title": "Dalila Demo",
-    "description": "Management suite developed for Florería Dalila (Concepción, Chile). Used on the daily for sales and delivery management. Demo version. Warning: The demo version handles user forms in a separate URL, which currently has a revoked SSL certificate.",
+    "description": "Custom made management suite developed for Florería Dalila (Concepción, Chile). Sales and delivery management. Demo version. Warning: The demo version handles user forms in a separate URL, which currently has a revoked SSL certificate.",
     "link": "https://dalilademo.pages.dev/",
     "repository": "https://github.com/marcelostockle/DalilaDemo",
     "thumbnail": "dalila-demo.png"

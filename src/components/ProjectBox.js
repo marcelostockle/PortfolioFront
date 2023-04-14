@@ -28,6 +28,8 @@ color: black;
 `
 const Thumbnail = styled.img`
 width: 90%;
+max-height: 300px;
+object-fit: contain;
 `
 const GithubIcon = styled(AiFillGithub)`
 background-color: white;
